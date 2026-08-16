@@ -27,6 +27,7 @@
 
 ## Tools & Function Calling
 - Claude tool use & MCP servers.
+- [**Agent QA**](https://github.com/vostride/agent-qa) — local MCP server and QA agent for natural-language web/mobile regressions, persistent test memory, and self-healing flows.
 - **Composio**, **Arcade** — managed tool catalogs for agents.
 
 ## RAG & Retrieval
