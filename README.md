@@ -28,6 +28,7 @@
 ## Tools & Function Calling
 - Claude tool use & MCP servers.
 - **Composio**, **Arcade** — managed tool catalogs for agents.
+- **[Tale](https://tale.dev/)** — shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
 ## RAG & Retrieval
 - Hybrid search (BM25 + dense), re-ranking, query rewriting.
